@@ -1,0 +1,6 @@
+{
+    "appId": "com.aiprototype.sentipulse",
+    "appName": "SentiPulse AI",
+    "webDir": "dist",
+    "bundledWebRuntime": false
+}
